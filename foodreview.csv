@@ -1,0 +1,34 @@
+﻿Restaurant name,Review,food item,rating
+Raasta_café,maggie_is_very_good,Maggie,4.2
+Chai_sutta_bar,maggie_is_very_spicy,Maggie,3.9
+Tealogy,it_is_very_spicy_as_wells_as_quantity_is_very_less_as_per_the_price,Maggie,3.7
+Tealogy,sandwich_is_very_nice_specially_bombay_sandwich,Sandwich,4.1
+chai_sutta_bar,sandwich_is_best_tastewise_as_well_as_price,Sandwich,4.4
+Raasta_café,it_is_awesome,Sandwich,4.7
+Raasta_café,it_is_really_good_and_student-friendly_price,Chilli_potato,4.3
+Raasta_café,not_so_good too_much_oily,Noodles,3.7
+Raasta_café,awesome,Paneer_tikka,4
+Warnig_head,very_good,Burger,4.2
+valley_café,very_tasteless,Noodles,3.2
+Chai_sutta_bar,average,Burger,3.8
+Detuch,quantity-wise_very_less,Paneer_tikka,3.2
+Food_Haven,Delicious_pasta_with_flavorful_meat_sauce.,Spaghetti_Bolognese,4.5
+Food_Haven,Classic_pizza_with_fresh_tomatoes_and_mozzarella.,Margherita_Pizza,4.2
+Green_Garden,Healthy_stir-fry_with_a_variety_of_fresh_vegetables.,Vegetarian_Stir-Fry,4.0
+Green_Garden,Nutritious_salad_with_quinoa _greens _and_a_tangy_dressing.,Quinoa_Salad,4.3
+Sushi_Paradise,Fresh_and_high-quality_sashimi_slices.,Sashimi_Platter,4.8
+Sushi_Paradise,Innovative_roll_with_eel_avocado_and_eel_sauce.,Dragon_Roll,4.6
+Burger_Junction,Juicy_beef_patty_topped_with_melted_cheese_and_fresh_veggies.,Classic_Cheeseburger,4.1
+Burger_Junction,Flavorful_vegetarian_burger_with_a_tasty_veggie_patty.,Veggie_Burger,4.0
+Ice_Cream_Delight,Indulgent_chocolate_sundae_with_whipped_cream_and_nuts.,Chocolate_Sundae,4.5
+Ice_Cream_Delight,Refreshing_sorbet_with_a_mix_of_seasonal_fruits.,Fruit_Sorbet,4.2
+Mexican_Fiesta,Spicy_and_cheesy_chicken_enchiladas.,Chicken_Enchiladas,4.4
+Mexican_Fiesta,Creamy_avocado_dip_with_tomatoes _onions _and_cilantro.,Guacamole,4.6
+Pasta_Palace,Rich_and_creamy_Alfredo_sauce_over_perfectly_cooked_fettuccine.,Fettuccine_Alfredo,4.7
+Pasta_Palace,Fresh_tomatoes _mozzarella _and_basil_drizzled_with_balsamic_glaze.,Caprese_Salad,4.2
+Thai_Temptation,Spicy_Thai_green_curry_with_coconut_milk_and_vegetables.,Green_Curry,4.3
+Thai_Temptation,Stir-fried_rice_noodles_with_shrimp _tofu _peanuts _and_lime.,Pad_Thai,4.5
+Steak_House,Juicy_and_tender_ribeye_steak_cooked_to_perfection.,Ribeye_Steak,4.8
+Steak_House,Classic_Caesar_salad_with_crisp_romaine_lettuce_and_Caesar_dressing.,Caesar_Salad,4.0
+Breakfast_Bliss,Sliced_avocado_on_toasted_whole-grain_bread_with_toppings.,Avocado_Toast,4.2
+Breakfast_Bliss,Fluffy_pancakes_served_with_maple_syrup_and_butter.,Pancakes,4.6
